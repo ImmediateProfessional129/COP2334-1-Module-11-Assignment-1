@@ -1,5 +1,5 @@
 # COP2334-1-Module-11-Assignment-1
-This is a repository link of the COP2334-1 Module 11 Assignment 1
+This is a repository link of the COP2334-1 Module 11 Assignment Program 1
 
 // This program is designed to caluclate the amount of items in the inventory of a furniture store such as a chair, table, and so on. Plus, it will calculate the total price of the items.
 
